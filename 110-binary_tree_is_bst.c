@@ -48,7 +48,7 @@ int less_than(const binary_tree_t *tree, int val)
 }
 
 /**
- * binary_tree_is_bst - this checks if a binary tree is a valid binary search tree
+ * binary_tree_is_bst - checks if a binary tree is a valid binary search tree
  * @tree: pointer to the root node of the tree to check
  *
  * Return: 1 if tree is a valid BST, and 0 otherwise. If tree is NULL, return 0
